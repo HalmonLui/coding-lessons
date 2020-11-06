@@ -1,4 +1,7 @@
 # Coding Interview University
+
+Based off of https://github.com/HalmonLui/coding-interview-university. I will be editing and adding to this list throughout my career as a software engineer
+
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
