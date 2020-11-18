@@ -1,6 +1,8 @@
-# Coding Interview University
+# Coding Lessons
 
 Based off of https://github.com/HalmonLui/coding-interview-university. I will be editing and adding to this list throughout my career as a software engineer
+
+Implementations of Data Structures and Algorithms can be found in Jupyter notebooks written for Python 3.
 
 ## Don't feel you aren't smart enough
 
