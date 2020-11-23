@@ -185,12 +185,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             - [x] [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/lecture/data-structures/instant-uploads-and-storage-optimization-in-dropbox-DvaIb)
             - [x] [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
-    - [ ] Implement with array using linear probing
-        - [ ] hash(k, m) - m is size of hash table
-        - [ ] add(key, value) - if key already exists, update value
-        - [ ] exists(key)
-        - [ ] get(key)
-        - [ ] remove(key)
+    - [x] Implement with array using linear probing
+        - [x] hash(k, m) - m is size of hash table
+        - [x] add(key, value) - if key already exists, update value
+        - [x] exists(key)
+        - [x] get(key)
+        - [x] remove(key)
 
 ## More Knowledge
 
