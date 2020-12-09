@@ -264,7 +264,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] [Check if a binary tree is binary search tree or not (video)](https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
         - [x] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36)
         - [x] [Inorder Successor in a binary search tree (video)](https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-    - [ ] Implement:
+    - [x] Implement:
         - [x] insert    // insert value into tree
         - [x] get_node_count // get count of values stored
         - [x] print_values // prints the values in the tree, from min to max
@@ -279,7 +279,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
-    - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
+    - [x] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
     - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
     - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
     - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
