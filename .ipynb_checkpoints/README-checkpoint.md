@@ -288,9 +288,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] Implement a max-heap:
         - [ ] insert
         - [ ] sift_up - needed for insert
-        - [ ] get_max - returns the max item, without removing it
+        - [x] get_max - returns the max item, without removing it
         - [ ] get_size() - return number of elements stored
-        - [ ] is_empty() - returns true if heap contains no elements
+        - [x] is_empty() - returns true if heap contains no elements
         - [ ] extract_max - returns the max item, removing it
         - [ ] sift_down - needed for extract_max
         - [ ] remove(i) - removes item at index x
